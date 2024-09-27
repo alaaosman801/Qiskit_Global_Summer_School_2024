@@ -1,0 +1,2 @@
+# Qiskit_Global_Summer_School_2024
+Qiskit_Global_Summer_School_2024: The Path to Utility
